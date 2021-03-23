@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a54dda0-b51a-4da1-9396-48f565026fb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/code/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/code/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,7 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-14" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-16" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.bootEntry.test" />
       <module name="Algorithm" />
@@ -131,15 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,6 +164,7 @@
       <updated>1616462513325</updated>
       <workItem from="1616462514499" duration="2508000" />
       <workItem from="1616467323489" duration="247000" />
+      <workItem from="1616468485252" duration="86000" />
     </task>
     <servers />
   </component>

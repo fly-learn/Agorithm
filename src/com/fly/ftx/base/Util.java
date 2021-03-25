@@ -69,6 +69,32 @@ public class Util {
             Random random = new Random();
             result[i] = random.nextInt(bound) + start;
         }
+        printArray(result);
        return result;
+    }
+
+    /**
+     * 打印数组
+     * @param source
+     */
+    public static void printArray (int[] source , String ... message) {
+        if(message.length != 0) {
+            System.out.println("~~~~~~~~~~~~~~~" +message[0]+ "~~~~~~~~~~~~~~~~");
+        } 
+        for (int i = 0; i < source.length; i++) {
+            System.out.print(source[i] + " ");
+            if(i == source.length -1) System.out.println();
+        }
+    }
+    /**
+     * 交换数据，这里限制为int类型
+     * @param source
+     * @param x
+     * @param y
+     */
+    public static void swap(int[] source , int x , int y) {
+        int tem = source[y];
+        source[y] = source[x];
+        source[x] = tem;
     }
 }

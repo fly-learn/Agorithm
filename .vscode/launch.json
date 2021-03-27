@@ -9,6 +9,20 @@
             "name": "Launch SortTest",
             "request": "launch",
             "mainClass": "com.fly.ftx.leedcode.swordOffer.array.bootEntry.SortTest",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.bootEntry.Test",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortTest",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.bootEntry.SortTest",
             "projectName": "Algorithm_25ffdcaa"
         },
         {

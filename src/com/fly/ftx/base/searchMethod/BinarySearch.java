@@ -10,7 +10,7 @@ public class BinarySearch implements SearchBase{
      * @return
      */
     public Object search(int[] source , int key) {
-        int left = 0 , right = source.length , mid;
+        int left = 0 , right = source.length-1 , mid;
         if (right >= 1) {
             while(true) {
                 mid = left + (right-left)/2 ;

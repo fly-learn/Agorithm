@@ -1,4 +1,4 @@
-package com.fly.ftx.base.sortMethod;
+package com.fly.ftx.base.sortMethod.baseSortInterface;
 
 /**
  * 排序基类
@@ -11,4 +11,5 @@ public interface BaseSort {
      * @return
      */
     public Object sort(int[] source);
+
 }

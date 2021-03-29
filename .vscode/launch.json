@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q53l",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q53l",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q05",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q05",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q04",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q04",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q03",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q03",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeapSort",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.base.sortMethod.HeapSort",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.base.sortMethod.MergeSort",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.base.sortMethod.QuickSort",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.base.sortMethod.BubbleSort",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSortTest",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.bootEntry.SelectionSortTest",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSortTest",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.bootEntry.BubbleSortTest",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
             "name": "Launch SortTest",
             "request": "launch",
             "mainClass": "com.fly.ftx.leedcode.swordOffer.array.bootEntry.SortTest",

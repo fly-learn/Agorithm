@@ -1,6 +1,6 @@
 package com.fly.ftx.base.sortMethod;
-
 import com.fly.ftx.base.Util;
+import com.fly.ftx.base.sortMethod.baseSortInterface.BaseSort;
 
 /**
  * 选择排序
@@ -17,13 +17,6 @@ public class SelectionSort implements BaseSort{
                     if(source[min] > source[j])  
                         min = j;
                 }
-                // 满足条件，交换数据
-                /* if(min != i) {
-                    int temp = source[min];
-                    source[min] = source[i];
-                    source[i] = temp;
-                } */
-              // 这里的交换方法有问题
               if(min != i) {
                    Util.swap(source, i, min);
                }

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q29",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q29",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q53ll",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q53ll",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
             "name": "Launch Q53l",
             "request": "launch",
             "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q53l",

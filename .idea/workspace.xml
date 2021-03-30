@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a54dda0-b51a-4da1-9396-48f565026fb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/code/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/code/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q53ll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/code/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/base/searchMethod/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/base/searchMethod/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q53l.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q53l.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,7 +87,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -102,13 +99,55 @@
       <recent name="D:\Code\myProgram\Java\OpenItem\Algorithm\src\com\fly\ftx\leedcode\swordOffer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+  <component name="RunManager" selected="Application.Q53l">
+    <configuration name="Q03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.questions.Q03" />
       <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fly.ftx.leedcode.swordOffer.array.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.questions.Q04" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fly.ftx.leedcode.swordOffer.array.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.questions.Q05" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fly.ftx.leedcode.swordOffer.array.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q53l" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.questions.Q53l" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fly.ftx.leedcode.swordOffer.array.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,14 +182,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.test" />
+      <item itemvalue="Application.Q53l" />
+      <item itemvalue="Application.Q03" />
+      <item itemvalue="Application.Q04" />
+      <item itemvalue="Application.Q05" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q53l" />
+        <item itemvalue="Application.Q05" />
+        <item itemvalue="Application.Q04" />
+        <item itemvalue="Application.Q03" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +209,8 @@
       <workItem from="1616462514499" duration="2508000" />
       <workItem from="1616467323489" duration="247000" />
       <workItem from="1616468485252" duration="86000" />
+      <workItem from="1617070429897" duration="28000" />
+      <workItem from="1617070616967" duration="450000" />
     </task>
     <servers />
   </component>

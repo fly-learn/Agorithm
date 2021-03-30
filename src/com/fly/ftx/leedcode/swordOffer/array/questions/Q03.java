@@ -3,7 +3,7 @@ import com.fly.ftx.base.Util;
 public class Q03 {
     /**
      * 找出数组中任意一个重复的数字
-     * @param source
+     * @param nums
      * @return
      */
     public static int findRepeatNumber(int[] nums) {

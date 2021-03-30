@@ -1,6 +1,5 @@
 package com.fly.ftx.leedcode.swordOffer.array.questions;
 
-import com.fly.ftx.base.Util;
 
 
 /**
@@ -9,10 +8,14 @@ import com.fly.ftx.base.Util;
 public class Q53l {
     public static int orderSearch(int[] source , int key) {
         int left = 0 , right = source.length-1 , mid;
+        // 处理数组只有一个元素情况
+        if(source.length ==1 && source[0] == key) {
+            return 0;
+        }
         if (right >= 1) {
             while(true) {
                 mid = left + (right-left)/2 ;
-                if(left < right) {
+                if(left <= right) {
                     if(key == source[mid]) return mid;
                     if (key < source[mid]) right= mid-1;
                     else left = mid+1;
@@ -47,8 +50,8 @@ public class Q53l {
     }
 
     public static void main(String[] args) {
-        int[] aa = {1,3};
-        int search = search(aa, 1);
+        int[] aa = {1 , 4};
+        int search = search(aa, 4);
         System.out.println("获取数量：" + search);
     }
 }

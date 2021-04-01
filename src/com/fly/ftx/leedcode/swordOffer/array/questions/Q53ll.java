@@ -19,7 +19,7 @@ public class Q53ll {
     }
 
     public static void main(String[] args) {
-        int[] aa = {0,1,2,4};
+        int[] aa = { 0, 1, 2, 4 };
         int missingNumber = missingNumber(aa);
         System.out.println("缺省的序号:" + missingNumber);
 

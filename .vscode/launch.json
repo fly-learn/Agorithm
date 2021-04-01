@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q16",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q16",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q15",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q15",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q14LL",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q14LL",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q14L",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q14L",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q13",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q13",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q11",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q11",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q10LL",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q10LL",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q10L",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q10L",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
             "name": "Launch Q29",
             "request": "launch",
             "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q29",

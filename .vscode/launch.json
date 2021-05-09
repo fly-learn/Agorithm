@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q53ll",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q53ll",
+            "projectName": "Agorithm_21fff229"
+        },
+        {
+            "type": "java",
+            "name": "Launch BaseKnowledge",
+            "request": "launch",
+            "mainClass": "com.javabase.BaseKnowledge",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q17",
+            "request": "launch",
+            "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q17",
+            "projectName": "Agorithm_8c58d7e7"
+        },
+        {
+            "type": "java",
             "name": "Launch Q16",
             "request": "launch",
             "mainClass": "com.fly.ftx.leedcode.swordOffer.array.questions.Q16",

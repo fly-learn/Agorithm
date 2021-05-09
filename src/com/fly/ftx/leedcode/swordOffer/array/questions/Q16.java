@@ -1,5 +1,7 @@
 package com.fly.ftx.leedcode.swordOffer.array.questions;
-
+/**
+ * 数值的整数次方
+ */
 public class Q16 {
     public static double myPow(double x, int n) {
         if (x == 0)

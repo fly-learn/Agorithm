@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a54dda0-b51a-4da1-9396-48f565026fb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q53ll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/code/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/base/searchMethod/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/base/searchMethod/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q53l.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q53l.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,17 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Q53l" />
@@ -211,6 +196,17 @@
       <workItem from="1616468485252" duration="86000" />
       <workItem from="1617070429897" duration="28000" />
       <workItem from="1617070616967" duration="450000" />
+      <workItem from="1617440354278" duration="596000" />
+      <workItem from="1617444491747" duration="36000" />
+      <workItem from="1617444548428" duration="26000" />
+      <workItem from="1617444634046" duration="394000" />
+      <workItem from="1617445088139" duration="57000" />
+      <workItem from="1617445167514" duration="536000" />
+      <workItem from="1617456374911" duration="344000" />
+      <workItem from="1617498792766" duration="100000" />
+      <workItem from="1617498916454" duration="61000" />
+      <workItem from="1617498996484" duration="158000" />
+      <workItem from="1617499172835" duration="181000" />
     </task>
     <servers />
   </component>

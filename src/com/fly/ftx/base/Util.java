@@ -1,16 +1,10 @@
 package com.fly.ftx.base;
-import java.util.Random;
-/**
- * 算法工具类
-*/
-
-import javax.naming.ldap.SortControl;
 
 import com.fly.ftx.base.searchMethod.BinarySearch;
 import com.fly.ftx.base.searchMethod.LinearSearch;
 import com.fly.ftx.base.sortMethod.QuickSort;
-import com.fly.ftx.leedcode.swordOffer.array.questions.Q03;
 
+import java.util.Random;
 
 
 public class Util {
@@ -39,11 +33,11 @@ public class Util {
      * @return String
      */
     public static String bootTimeNs(long startTime , long endTime) {
-        var usetime = endTime - startTime;
+        long usetime = endTime - startTime;
         if(usetime <= 0) return "运行速度太快，无法测试";
-        var useMstime=0l;
-        var userWstime=0l;
-        var useNstime=0l;
+        long useMstime=0l;
+        long userWstime=0l;
+        long useNstime=0l;
         if(usetime > 999999) {
             useMstime = usetime/1000000;
             userWstime = usetime / 1000 ;
@@ -65,8 +59,8 @@ public class Util {
     public static String bootTimeMs(long startTime , long endTime) {
         long useTime = endTime - startTime;
         if(useTime < 0) return "计算错误，结束时间小于开始时间";
-        var useMstime = 0l;
-        var useStime = 0l;
+        long useMstime = 0l;
+        long useStime = 0l;
         if(useTime > 1000) {
             useMstime = useTime % 1000;
             useStime = (useTime / 1000) % 60 ;
@@ -89,7 +83,7 @@ public class Util {
         if(bound < -2147483648) bound = -2147483648;
         if(bound > 2147483647) bound = 2147483647;
 
-        var result = new int[size];
+        int[] result = new int[size];
         for (int i = 0; i < result.length; i++) {
             Random random = new Random();
             result[i] = random.nextInt(bound) + start;
@@ -107,7 +101,7 @@ public class Util {
      */
     public static int[][] generateRandom2wInt(int size ,int length , int start , int bound ) {
         if(size < 0 || start > bound) return null;
-        var result = new int [size][];
+        int[][] result = new int [size][];
         for (int i = 0; i < size; i++) {
             int[] generateRandomInt = generateRandomInt(length, start, bound);
             result[i] = generateRandomInt;
@@ -172,7 +166,7 @@ public class Util {
      */
     public static boolean checkArrayOrdered(int[] source) {
         if(source.length == 0) return false;
-        var flag = true;
+        boolean flag = true;
         int mid = source.length / 2;
         int j =1;
         if(source[mid] < source[0] || source[mid] > source[source.length -1]) return false;

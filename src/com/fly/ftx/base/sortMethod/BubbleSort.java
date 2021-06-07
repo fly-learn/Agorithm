@@ -12,7 +12,7 @@ public class BubbleSort implements BaseSort {
      */
     @Override
     public Object sort(int[] source) {
-        var n = source.length;
+        int n = source.length;
         for (int i = 0; i < n; i++) {
             for (int j = n-1; j > 0; j--) {
                 if(source[j] < source[j-1]) {

@@ -1,7 +1,7 @@
 package com.fly.ftx.base.sortMethod;
 import com.fly.ftx.base.Util;
 import com.fly.ftx.base.sortMethod.baseSortInterface.LeftRightSortInterface;
-import com.fly.ftx.leedcode.swordOffer.array.bootEntry.BaseTestMode;
+import com.fly.ftx.swordOffer.test.BaseTestMode;
 
 
 /**
@@ -41,7 +41,7 @@ public class QuickSort extends BaseTestMode implements LeftRightSortInterface{
     public void LRSort(int[] source, int left, int right) {
        // 递归出口
        if(left < right) {
-        var partion = partition(source, left, right);
+        int partion = partition(source, left, right);
         LRSort(source, left, partion);
         LRSort(source, partion+1 , right);
        }
@@ -56,7 +56,7 @@ public class QuickSort extends BaseTestMode implements LeftRightSortInterface{
     public static void quickSort(int[] source, int left, int right) {
         // 递归出口
        if(left < right) {
-        var partion = partition(source, left, right);
+        int partion = partition(source, left, right);
         quickSort(source, left, partion);
         quickSort(source, partion+1 , right);
        }

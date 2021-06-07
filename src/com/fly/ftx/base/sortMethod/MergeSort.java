@@ -33,8 +33,8 @@ public class MergeSort implements LeftRightSortInterface {
     static void merge(int[] source , int left , int mid , int right) {
         int n1 = mid -left +1;
         int n2 = right - mid ;
-        var L = new int[n1] ;
-        var R = new int[n2] ;
+        int[] L = new int[n1] ;
+        int[] R = new int[n2] ;
         // 存放在临时数组中
         for (int i = 0; i < n1; i++) {
             L[i] = source[left+ i];

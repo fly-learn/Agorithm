@@ -2,10 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a54dda0-b51a-4da1-9396-48f565026fb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Solution16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Solution17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Solution18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/ExponentialSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/ExponentialSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/FibonacciSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/FibonacciSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/InterpolationSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/InterpolationSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/JumpSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/JumpSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/LinearSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/SearchBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/SearchBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/SublistSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/SublistSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/UbiquitousBinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/searchMethod/UbiquitousBinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/baseSortInterface/BaseSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/baseSortInterface/BaseSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/baseSortInterface/LeftRightSortInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/baseSortInterface/LeftRightSortInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/baseSortInterface/leftMidRightInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/base/sortMethod/baseSortInterface/leftMidRightInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/leed/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/bootEntry/BaseTestMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/bootEntry/BubbleSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/bootEntry/SelectionSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/bootEntry/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/questions/Q03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/questions/Q04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/questions/Q05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/questions/Q53l.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/com/fly/ftx/leedcode/swordOffer/array/questions/Q53ll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/base/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/base/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/base/sortMethod/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/base/sortMethod/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/base/sortMethod/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/base/sortMethod/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/base/sortMethod/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/base/sortMethod/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/leed/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/bootEntry/BaseTestMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/test/BaseTestMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/bootEntry/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/test/BubbleSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/bootEntry/SelectionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/test/SelectionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/bootEntry/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q10L.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q10L.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q10LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q10LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q14L.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q14L.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q14LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q14LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q53l.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q53l.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fly/ftx/leedcode/swordOffer/array/questions/Q53ll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions/Q53ll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabase/BaseKnowledge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fly/ftx/ortherProgramTest/HuaWei_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,28 +143,33 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/fly/ftx/swordOffer/questions" />
       <recent name="D:\Code\myProgram\Java\OpenItem\Algorithm\src\com\fly\ftx\algorithmBook" />
       <recent name="D:\Code\myProgram\Java\OpenItem\Algorithm\src\com\fly\ftx\leedcode\leed" />
       <recent name="D:\Code\myProgram\Java\OpenItem\Algorithm\src\com\fly\ftx\leedcode\swordOffer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q53l">
+  <component name="RunManager" selected="Application.Q03">
     <configuration name="Q03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.questions.Q03" />
+      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.swordOffer.questions.Q03" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fly.ftx.leedcode.swordOffer.array.questions.*" />
+          <option name="PATTERN" value="com.fly.ftx.swordOffer.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +178,11 @@
       </method>
     </configuration>
     <configuration name="Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.questions.Q04" />
+      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.swordOffer.questions.Q04" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fly.ftx.leedcode.swordOffer.array.questions.*" />
+          <option name="PATTERN" value="com.fly.ftx.swordOffer.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +191,11 @@
       </method>
     </configuration>
     <configuration name="Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.questions.Q05" />
+      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.swordOffer.questions.Q05" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fly.ftx.leedcode.swordOffer.array.questions.*" />
+          <option name="PATTERN" value="com.fly.ftx.swordOffer.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +204,11 @@
       </method>
     </configuration>
     <configuration name="Q53l" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.leedcode.swordOffer.array.questions.Q53l" />
+      <option name="MAIN_CLASS_NAME" value="com.fly.ftx.swordOffer.questions.Q53l" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fly.ftx.leedcode.swordOffer.array.questions.*" />
+          <option name="PATTERN" value="com.fly.ftx.swordOffer.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,6 +234,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Q53l" />
@@ -175,10 +254,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q03" />
         <item itemvalue="Application.Q53l" />
         <item itemvalue="Application.Q05" />
         <item itemvalue="Application.Q04" />
-        <item itemvalue="Application.Q03" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
@@ -207,6 +286,8 @@
       <workItem from="1617498916454" duration="61000" />
       <workItem from="1617498996484" duration="158000" />
       <workItem from="1617499172835" duration="181000" />
+      <workItem from="1621002794856" duration="23000" />
+      <workItem from="1623027176709" duration="1332000" />
     </task>
     <servers />
   </component>

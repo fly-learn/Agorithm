@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 华为机试算法题
  */
-public class HuaWei_01 {
+public class HuaWei_005 {
     public static void main(String[] args) {
         int n = 0;
         Scanner scanner = new Scanner(System.in);        
